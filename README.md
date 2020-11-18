@@ -1,7 +1,7 @@
 # Proyecto-AppSistemaSoporte-MySQL-PHP-XAMPP-Android
 Aplicación móvil para seguimiento de reportes
 
-1.Cargar la base de datos en tu entorno.
+1. Cargar la base de datos en tu entorno.
 
 2. Alojar el archivo PHP en tu directorio local, recordando cambiar los datos de conexión correspondientes a la base de datos.
 
